@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.0" />
+  <project name="yazidkucrit/android_device_motorola_condor" path="device/motorola/condor" remote="github" revision="cm-12.0-caf" />
+  <project name="yazidkucrit/android_vendor_motorola_condor" path="vendor/motorola/condor" remote="github" revision="cm-12.0-caf" />
+  <project name="yazidkucrit/android_kernel_motorola_msm8610" path="kernel/motorola/msm8610" remote="github" revision="cm-12.0" />
+  <project path="hardware/qcom/audio-caf/msm8610" name="CyanogenMod/android_hardware_qcom_audio" revision="cm-12.0-caf-8226" />
+  <project path="hardware/qcom/display-caf/msm8610" name="CyanogenMod/android_hardware_qcom_display" revision="cm-12.0-caf-8226" />
+  <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.0" />
+  <project path="hardware/qcom/media-caf/msm8610" name="CyanogenMod/android_hardware_qcom_media" revision="cm-12.0-caf-8226" />
+</manifest>
